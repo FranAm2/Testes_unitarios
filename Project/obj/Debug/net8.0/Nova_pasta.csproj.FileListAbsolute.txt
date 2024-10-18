@@ -1,0 +1,14 @@
+C:\Users\franc\OneDrive\Documentos\Estudos 3 o inimigo agora e outro\Dio\Desafios Fullstack .Net\Nova pasta\Project\bin\Debug\net8.0\Nova_pasta.exe
+C:\Users\franc\OneDrive\Documentos\Estudos 3 o inimigo agora e outro\Dio\Desafios Fullstack .Net\Nova pasta\Project\bin\Debug\net8.0\Nova_pasta.deps.json
+C:\Users\franc\OneDrive\Documentos\Estudos 3 o inimigo agora e outro\Dio\Desafios Fullstack .Net\Nova pasta\Project\bin\Debug\net8.0\Nova_pasta.runtimeconfig.json
+C:\Users\franc\OneDrive\Documentos\Estudos 3 o inimigo agora e outro\Dio\Desafios Fullstack .Net\Nova pasta\Project\bin\Debug\net8.0\Nova_pasta.dll
+C:\Users\franc\OneDrive\Documentos\Estudos 3 o inimigo agora e outro\Dio\Desafios Fullstack .Net\Nova pasta\Project\bin\Debug\net8.0\Nova_pasta.pdb
+C:\Users\franc\OneDrive\Documentos\Estudos 3 o inimigo agora e outro\Dio\Desafios Fullstack .Net\Nova pasta\Project\obj\Debug\net8.0\Nova_pasta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\OneDrive\Documentos\Estudos 3 o inimigo agora e outro\Dio\Desafios Fullstack .Net\Nova pasta\Project\obj\Debug\net8.0\Nova_pasta.AssemblyInfoInputs.cache
+C:\Users\franc\OneDrive\Documentos\Estudos 3 o inimigo agora e outro\Dio\Desafios Fullstack .Net\Nova pasta\Project\obj\Debug\net8.0\Nova_pasta.AssemblyInfo.cs
+C:\Users\franc\OneDrive\Documentos\Estudos 3 o inimigo agora e outro\Dio\Desafios Fullstack .Net\Nova pasta\Project\obj\Debug\net8.0\Nova_pasta.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Documentos\Estudos 3 o inimigo agora e outro\Dio\Desafios Fullstack .Net\Nova pasta\Project\obj\Debug\net8.0\Nova_pasta.dll
+C:\Users\franc\OneDrive\Documentos\Estudos 3 o inimigo agora e outro\Dio\Desafios Fullstack .Net\Nova pasta\Project\obj\Debug\net8.0\refint\Nova_pasta.dll
+C:\Users\franc\OneDrive\Documentos\Estudos 3 o inimigo agora e outro\Dio\Desafios Fullstack .Net\Nova pasta\Project\obj\Debug\net8.0\Nova_pasta.pdb
+C:\Users\franc\OneDrive\Documentos\Estudos 3 o inimigo agora e outro\Dio\Desafios Fullstack .Net\Nova pasta\Project\obj\Debug\net8.0\Nova_pasta.genruntimeconfig.cache
+C:\Users\franc\OneDrive\Documentos\Estudos 3 o inimigo agora e outro\Dio\Desafios Fullstack .Net\Nova pasta\Project\obj\Debug\net8.0\ref\Nova_pasta.dll
